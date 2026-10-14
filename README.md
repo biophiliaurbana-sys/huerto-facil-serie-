@@ -7,7 +7,7 @@ Huerto Fácil es una serie animada de dos temporadas basada en mi guía de huert
 No sé programar a mano: construí todo dirigiendo a Claude Code (Anthropic) como mi programador.
 
 Publicación en YouTube y Meta
-Conecté el proyecto a YouTube y a Meta Business (Facebook e Instagram) para que los capítulos queden programados solos, con su portada, descripción y fecha, lo que me ahora tiempos para así poder grabar más contenido y no perder tiempo subiendo y programando de forma manual.
+Conecté el proyecto a YouTube y a Meta Business (Facebook e Instagram) para que los capítulos queden programados solos, con su portada, descripción y fecha, lo que me ahorra tiempos para así poder grabar más contenido y no perder tiempo subiendo y programando videos de forma manual.
 
 La misma herramienta me permite crear contenido de muchos estilos. Yo defino el estilo y el código lo anima.
 
